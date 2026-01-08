@@ -1,0 +1,2 @@
+local_fake_news_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+dataset/*.csvgit filter=lfs diff=lfs merge=lfs -text
