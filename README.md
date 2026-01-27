@@ -53,7 +53,28 @@ git lfs install
 git lfs pull
 
 4️⃣ Run the application
-python app.py
+python app.py 
+
+### 📷 Screenshots
+
+#### Frontend Interface
+![Frontend](screenshots/frontend.jpeg)
+
+#### News Input Demo
+![News Demo](screenshots/news_demo.jpeg)
+
+#### Prediction – Real News
+![Real News](screenshots/real_news.jpeg)
+
+#### Prediction – Fake News
+![Fake News](screenshots/fake_news.jpeg)
+
+#### About Page
+![About](screenshots/about.jpeg)
+
+#### Authenticity / Verification View
+![Authenticity](screenshots/authenticity.jpeg)
+
 
 
 Then open:
